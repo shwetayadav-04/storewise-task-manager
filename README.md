@@ -1,4 +1,4 @@
-# Task Management Application (Storewise Assignment)
+# Task Management Application (Assignment)
 
 ## Overview
 This project is a task management application built using React, Vite, and Redux. It allows users to create, update, delete, and manage tasks with additional features like cloning, status updates, and data persistence.

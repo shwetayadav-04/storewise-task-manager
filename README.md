@@ -19,7 +19,7 @@ This project is a task management application built using React, Vite, and Redux
 ### Level 2
 - Rename tasks  
 - Clone tasks  
-- Refactored state using Redux  
+- Refactored state using Redux  s
 h
 ---
 
